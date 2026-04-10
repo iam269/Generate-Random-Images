@@ -8,7 +8,7 @@ A fun and simple web application that generates random images with just one clic
 - 🔄 Click to generate new images
 
 ## 🚀 Live Demo
-Check out the live version here: [https://iam269.github.io/Generate-Random-Images/](https://iam269.github.io/Generate-Random-Images/)
+Check out the live version here: [https://itsiamdev.github.io/Generate-Random-Images/](https://itsiamdev.github.io/Generate-Random-Images/)
 
 ## 🛠️ How to Use
 1. Open `index.html` in your browser
